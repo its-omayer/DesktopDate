@@ -1,0 +1,8 @@
+{
+  "name": "DesktopDate",
+  "description": "A beautiful click-through desktop date and day widget for GNOME Wayland. No cursor interference, no floating windows. Sits below all app windows like a real desktop widget.",
+  "uuid": "desktopdate@its-omayer",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 1,
+  "url": "https://github.com/its-omayer/DesktopDate"
+}
